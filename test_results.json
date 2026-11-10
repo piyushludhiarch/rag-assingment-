@@ -1,0 +1,38 @@
+[
+  {
+    "question": "The pump is making a grinding noise and leaking near the seal. Which part do I need?",
+    "tool_used": "find_parts",
+    "correct": true,
+    "answer": "**Maintenance Catalog \u2013 Hydraulic Seals (Machine\u202fC1)**  \n\n| Part ID | Name                     | Category | Compatible Machine | Stock | Supplier              | Lead Time (days) | Price (USD) |\n|---------|--------------------------|----------|--------------------|-------|-----------------------|------------------|-------------|\n| P\u2011001   | Hydraulic Pump Seal      | seal     | C1                 | 14    | Industrial Seals Ltd  | 3                | 245.0       |\n| P\u2011004   | Hydraulic O\u2011Ring Kit     | seal     | C1                 | 30    | Reliable Seals        | 2                | 55.0        |\n\n*All information is taken directly from the supplied JSON; no additional fields or estimates have been added.*\n\nSwitch off and lock out the machine before any repair."
+  },
+  {
+    "question": "Do we have the conveyor belt for machine C2 in stock?",
+    "tool_used": "find_parts",
+    "correct": true,
+    "answer": "**Maintenance Catalog \u2013 Conveyor Belt Parts**\n\n| Part ID | Name                     | Category | Compatible Machine | Price | Stock | Supplier              | Lead Time (days) |\n|---------|--------------------------|----------|--------------------|-------|-------|-----------------------|------------------|\n| P-009   | Conveyor Drive Belt      | belt     | C2                 | 175.0 | 16    | Conveyor Parts UK     | 5                |\n| P-015   | Conveyor Belt Splice Kit | belt     | C2                 | 68.0  | 32    | Reliable Seals        | 2                |\n\nSwitch off and lock out the machine before any repair."
+  },
+  {
+    "question": "How do I replace a motor bearing safely?",
+    "tool_used": "search_guide",
+    "correct": true,
+    "answer": "**Safe motor\u2011bearing replacement (based on the guide excerpts)**  \n\n1. **Lock\u2011out and isolate the machine**  \n   - Switch off the motor and lock out the machine.  \n   - Verify that no energy is present and wait until the motor and any driven equipment have stopped.  \n   - Disconnect the motor leads after recording the terminal connections.  \n   - Remove guards only from the isolated machine and support the motor so it cannot roll.  \n   - Use hearing protection if a temporary run is required, but never perform bearing checks while the motor is energized.  \n\n2. **Prepare the shaft and bearing area**  \n   - Clean the shaft and housing.  \n   - Inspect the bearing seats for damage.  \n   - Use the puller and press specified by the bearing supplier.  \n   - Apply force only to the bearing ring being fitted.  \n\n3. **Fit the new bearing**  \n   - Add only the lubricant and quantity listed in the motor manual.  \n   - Do not force a bearing onto a damaged shaft or use heat beyond the manufacturer\u2019s limit.  \n\n4. **Reassemble and test**  \n   - Reassemble the coupling and guards.  \n   - Restore the recorded electrical connections.  \n   - Perform insulation and continuity checks.  \n   - Start the motor under supervision, listening for smooth operation.  \n   - Stop immediately if vibration, rubbing, smoke, or overheating occurs.  \n\n5. **Verify proper fit**  \n   - After fitting, check end play.  \n   - Rotate the shaft by hand to confirm smooth rotation.  \n\nThese steps, taken together, provide a safe procedure for replacing a motor bearing.\n\nSwitch off and lock out the machine before any repair."
+  },
+  {
+    "question": "What safety checks come before changing a pump seal?",
+    "tool_used": "search_guide",
+    "correct": true,
+    "answer": "Before you start changing a pump seal you should:\n\n1. **Stop the pump** and isolate it from all sources of energy \u2013 electrical, hydraulic, and pressure.  \n2. **Apply lockout/tagout** to ensure the pump cannot be inadvertently energized.  \n3. **Verify that the pressure gauges read zero** (confirm the system is depressurized).  \n4. **Place drip trays** beneath the seal area to catch any residual oil that may escape.  \n5. **Wear eye protection** (and other appropriate PPE) because residual oil can be released during the procedure.\n\nSwitch off and lock out the machine before any repair."
+  },
+  {
+    "question": "The machine is not working properly.",
+    "tool_used": null,
+    "correct": true,
+    "answer": "Please provide more detail: the machine name, fault symptom, and where the problem is occurring.\n\nSwitch off and lock out the machine before any repair."
+  },
+  {
+    "question": "What is the best cricket bat to buy?",
+    "tool_used": null,
+    "correct": true,
+    "answer": "I can answer only maintenance and spare-parts questions."
+  }
+]

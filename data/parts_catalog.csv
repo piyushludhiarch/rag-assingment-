@@ -1,0 +1,16 @@
+part_id,name,category,compatible_machine,price,stock,supplier,lead_time_days
+P-001,Hydraulic Pump Seal,seal,C1,245.00,14,Industrial Seals Ltd,3
+P-002,Hydraulic Pump Bearing,bearing,C1,180.00,8,Motion Supply Co,4
+P-003,Hydraulic Pump Impeller,impeller,C1,620.00,3,Flow Components Inc,7
+P-004,Hydraulic O-Ring Kit,seal,C1,55.00,30,Reliable Seals,2
+P-005,Induction Motor,motor,P1,1450.00,4,PowerTech Motors,10
+P-006,Motor Bearing Kit,bearing,P1,95.00,24,Bearing House,3
+P-007,Motor Cooling Fan,cooling fan,P1,210.00,11,PowerTech Motors,5
+P-008,Motor Shaft Seal,shaft seal,P1,125.00,18,Industrial Seals Ltd,4
+P-009,Conveyor Drive Belt,belt,C2,175.00,16,Conveyor Parts UK,5
+P-010,Conveyor Drive Motor,motor,C2,980.00,5,Motion Supply Co,9
+P-011,Conveyor Roller,roller,C2,140.00,20,Conveyor Parts UK,4
+P-012,Conveyor Limit Switch,switch,C2,88.00,25,Control Supply Co,3
+P-013,Hydraulic Pressure Gauge,gauge,C1,130.00,9,Flow Components Inc,4
+P-014,Motor Coupling,coupling,P1,275.00,12,Motion Supply Co,6
+P-015,Conveyor Belt Splice Kit,belt,C2,68.00,32,Reliable Seals,2
